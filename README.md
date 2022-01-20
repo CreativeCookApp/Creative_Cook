@@ -61,7 +61,7 @@ An administrator can establish featured flavor combos and post them to the home 
 
 ## Acknowledgements
 
-Thank you to Sean Little, our client and cooking expert.  Thank you to the folks at Flavor Bible for working with the team and allowing use of many of their features.  Thank you to the instructors and fellow classmate at Prime Digital Academy.  
+Thank you to Sean Little, our client and cooking expert.  Thank you to the instructors and fellow classmate at Prime Digital Academy.  
 
 ## Contacts
 
